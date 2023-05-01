@@ -3,6 +3,7 @@ import requests
 import html
 import json
 
+
 class Location:
 
 
